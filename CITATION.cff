@@ -5,18 +5,50 @@ abstract: >-
   Python code reproducing every figure, supporting figure and statistical table in
   Forey et al., PLOS Genetics.
 type: software
-version: 1.0.0
-date-released: "2026-10-03"
+version: 1.0.1
+date-released: "2026-10-05"
 license: MIT
+repository-code: "https://github.com/romainforey7-spec/kzfp-oe-platform"
 authors:
   - family-names: Forey
     given-names: Romain
     affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
-    orcid: "https://orcid.org/AUTHOR-TO-SUPPLY"
+    orcid: "https://orcid.org/0000-0002-7197-1862"
+  - family-names: Raclot
+    given-names: Charlène
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0000-0002-1558-5916"
+  - family-names: Dorschel
+    given-names: Arianna
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0000-0003-4148-1878"
+  - family-names: Archambeau
+    given-names: Jérôme
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+  - family-names: Planet
+    given-names: Evarist
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0000-0002-5464-5379"
+  - family-names: Bompadre
+    given-names: Olimpia
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0000-0002-8334-6538"
+  - family-names: Offner
+    given-names: Sandra
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0009-0007-0615-101X"
+  - family-names: Matsushima
+    given-names: Wayo
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0000-0002-0334-2423"
+  - family-names: van der Goot
+    given-names: Gisou
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/0000-0002-8522-274X"
   - family-names: Trono
     given-names: Didier
     affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
-    orcid: "https://orcid.org/AUTHOR-TO-SUPPLY"
+    orcid: "https://orcid.org/0000-0002-3383-0401"
 keywords:
   - KRAB zinc finger protein
   - transposable element
@@ -33,5 +65,30 @@ preferred-citation:
   authors:
     - family-names: Forey
       given-names: Romain
+      orcid: "https://orcid.org/0000-0002-7197-1862"
+    - family-names: Raclot
+      given-names: Charlène
+      orcid: "https://orcid.org/0000-0002-1558-5916"
+    - family-names: Dorschel
+      given-names: Arianna
+      orcid: "https://orcid.org/0000-0003-4148-1878"
+    - family-names: Archambeau
+      given-names: Jérôme
+    - family-names: Planet
+      given-names: Evarist
+      orcid: "https://orcid.org/0000-0002-5464-5379"
+    - family-names: Bompadre
+      given-names: Olimpia
+      orcid: "https://orcid.org/0000-0002-8334-6538"
+    - family-names: Offner
+      given-names: Sandra
+      orcid: "https://orcid.org/0009-0007-0615-101X"
+    - family-names: Matsushima
+      given-names: Wayo
+      orcid: "https://orcid.org/0000-0002-0334-2423"
+    - family-names: van der Goot
+      given-names: Gisou
+      orcid: "https://orcid.org/0000-0002-8522-274X"
     - family-names: Trono
       given-names: Didier
+      orcid: "https://orcid.org/0000-0002-3383-0401"
