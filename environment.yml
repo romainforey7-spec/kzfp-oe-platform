@@ -1,0 +1,20 @@
+name: kzfp-oe-platform
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.16
+  - pillow=12.3.0
+  - matplotlib=3.11.2
+  - networkx=3.6.1
+  - numpy=2.4.6
+  - openpyxl=3.1.5
+  - pandas=2.3.3
+  - pypdfium2=5.9.0
+  - python-docx=1.2.0
+  - python-pptx=1.0.2
+  - requests=2.34.2
+  - scipy=1.17.1
+  - statsmodels=0.15.0
+  - pip
+  - pip:
+    - pyfamsa==0.7.0

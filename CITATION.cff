@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: If you use this code, please cite both the software and the paper.
+title: Analysis code for the human KZFP over-expression platform
+abstract: >-
+  Python code reproducing every figure, supporting figure and statistical table in
+  Forey et al., PLOS Genetics.
+type: software
+version: 1.0.0
+date-released: "2026-10-03"
+license: MIT
+authors:
+  - family-names: Forey
+    given-names: Romain
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/AUTHOR-TO-SUPPLY"
+  - family-names: Trono
+    given-names: Didier
+    affiliation: Ecole Polytechnique Federale de Lausanne (EPFL)
+    orcid: "https://orcid.org/AUTHOR-TO-SUPPLY"
+keywords:
+  - KRAB zinc finger protein
+  - transposable element
+  - SCAN domain
+  - ChIP-exo
+  - RNA-seq
+preferred-citation:
+  type: article
+  title: >-
+    An overexpression platform reveals the functional diversity of human KRAB-Zinc
+    Finger Proteins in maintaining cellular homeostasis
+  journal: PLOS Genetics
+  year: 2026
+  authors:
+    - family-names: Forey
+      given-names: Romain
+    - family-names: Trono
+      given-names: Didier

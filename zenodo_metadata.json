@@ -1,0 +1,49 @@
+{
+  "title": "Analysis code for: An overexpression platform reveals the functional diversity of human KRAB-Zinc Finger Proteins in maintaining cellular homeostasis",
+  "upload_type": "software",
+  "description": "Python code that reproduces every figure, supporting figure and statistical table in Forey et al., PLOS Genetics. Includes the PrestoBlue proliferation screen processing, RNA-seq differential-expression panels, ChIP-exo peak and repeat annotation, the pure-stdlib bigWig reader used for all coverage tracks, the AP-MS interactome and SCAN-domain enrichment analysis, and the figure builders that emit PLOS-compliant TIFF/SVG at a fixed 7.48 in sheet width.",
+  "creators": [
+    {
+      "name": "Forey, Romain",
+      "affiliation": "School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland",
+      "orcid": "AUTHOR TO SUPPLY"
+    },
+    {
+      "name": "Trono, Didier",
+      "affiliation": "School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland",
+      "orcid": "AUTHOR TO SUPPLY"
+    }
+  ],
+  "keywords": [
+    "KRAB zinc finger protein",
+    "KZFP",
+    "transposable element",
+    "SCAN domain",
+    "ChIP-exo",
+    "RNA-seq",
+    "affinity purification mass spectrometry",
+    "cell proliferation",
+    "transcriptional repression"
+  ],
+  "license": "MIT",
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "DOI TO SUPPLY ON ACCEPTANCE",
+      "resource_type": "publication-article"
+    },
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "GEO ACCESSION TO SUPPLY",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isSupplementedBy",
+      "identifier": "PRIDE ACCESSION TO SUPPLY",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Repository name and the GitHub-Zenodo link must be set by the authors before the release is minted. Fields marked 'TO SUPPLY' are the only remaining gaps."
+}
