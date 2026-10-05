@@ -5,13 +5,52 @@
   "creators": [
     {
       "name": "Forey, Romain",
-      "affiliation": "School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland",
-      "orcid": "AUTHOR TO SUPPLY"
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-7197-1862"
+    },
+    {
+      "name": "Raclot, Charlène",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-1558-5916"
+    },
+    {
+      "name": "Dorschel, Arianna",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0003-4148-1878"
+    },
+    {
+      "name": "Archambeau, Jérôme",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)"
+    },
+    {
+      "name": "Planet, Evarist",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-5464-5379"
+    },
+    {
+      "name": "Bompadre, Olimpia",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-8334-6538"
+    },
+    {
+      "name": "Offner, Sandra",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0009-0007-0615-101X"
+    },
+    {
+      "name": "Matsushima, Wayo",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-0334-2423"
+    },
+    {
+      "name": "van der Goot, Gisou",
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-8522-274X"
     },
     {
       "name": "Trono, Didier",
-      "affiliation": "School of Life Sciences, Ecole Polytechnique Federale de Lausanne (EPFL), Lausanne, Switzerland",
-      "orcid": "AUTHOR TO SUPPLY"
+      "affiliation": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+      "orcid": "0000-0002-3383-0401"
     }
   ],
   "keywords": [
@@ -27,23 +66,8 @@
   ],
   "license": "MIT",
   "language": "eng",
-  "version": "1.0.0",
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "DOI TO SUPPLY ON ACCEPTANCE",
-      "resource_type": "publication-article"
-    },
-    {
-      "relation": "isSupplementedBy",
-      "identifier": "GEO ACCESSION TO SUPPLY",
-      "resource_type": "dataset"
-    },
-    {
-      "relation": "isSupplementedBy",
-      "identifier": "PRIDE ACCESSION TO SUPPLY",
-      "resource_type": "dataset"
-    }
-  ],
-  "notes": "Repository name and the GitHub-Zenodo link must be set by the authors before the release is minted. Fields marked 'TO SUPPLY' are the only remaining gaps."
+  "version": "1.0.1",
+  "related_identifiers": [],
+  "notes": "Author list and order follow the manuscript title page (ten authors). Jerome Archambeau has no ORCID. Before publishing the Zenodo record, add as related identifiers: the article DOI (relation 'isSupplementTo') once PLOS assigns it, the GEO series accession and the ProteomeXchange/PRIDE accession (relation 'isSupplementedBy'). They are omitted here rather than carried as placeholder strings.",
+  "publication_date": "2026-10-05"
 }
